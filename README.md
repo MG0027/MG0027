@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Nice to meet you! I’m currently a pre-final year student pursuing a BTech in Information Technology. I consider myself a tech nomad, always eager to explore different technologies. At heart, I’m a passionate full-stack developer with a love for AI and problem-solving.</p>
+<p align="left">Nice to meet you! I’m currently a pre-final year student pursuing a BTech in Information Technology. I consider myself a tech nomad, always eager to explore different technologies. At heart, I’m a passionate full-stack developer with a love for AI and problem-solving. I’m always striving for elegant systems that work seamlessly and feel just right.</p>
 
 ###
 
