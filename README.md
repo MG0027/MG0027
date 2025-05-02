@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Nice to meet you! I’m currently a pre-final year student pursuing a BTech in Information Technology. I consider myself a tech nomad, always eager to explore different technologies. At heart, I’m a passionate full-stack developer with a love for AI and problem-solving. I’m always striving for elegant systems that work seamlessly and feel just right — and always ready to contribute, collaborate, and grow.</p>
+<p align="left">Nice to meet you! I’m currently a pre-final year student pursuing a BTech in Information Technology. As a Full Stack Developer and AI enthusiast, I love turning complex problems into clean, efficient solutions. Whether it's building scalable web applications or experimenting with machine learning models, I enjoy exploring the endless possibilities that tech has to offer.
+
+I consider myself a tech nomad — always curious, always learning. I thrive on building systems that feel intuitive and perform seamlessly. Beyond code, I believe in collaboration, continuous improvement, and contributing to projects that make an impact.
+
+Currently exploring opportunities to work on real-world problems, learn from inspiring minds, and grow as a developer.
+
+Let’s connect — always open to exciting conversations, collaborations, and new challenges.</p>
 
 ###
 
