@@ -1,13 +1,10 @@
 <h1 align="left">Hey, I'm Mudit Gandhi 👋</h1>
 
-<p align="left">
-Curious by default.<br><br>
+<p align="left">Curious by default.
 
-Currently spending most of my time with Spring Boot, PostgreSQL, Kubernetes, Helm, and an unhealthy number of terminal tabs.<br><br>
+Currently spending most of my time with Spring Boot, PostgreSQL, Kubernetes, Helm, and an unhealthy number of terminal tabs.
 
-Trying to leave every codebase a little cleaner than I found it.
-</p>
-
+Trying to leave every codebase a little cleaner than I found it.</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/mudit-gandhi-8855a1256/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
