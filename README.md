@@ -4,7 +4,7 @@
 
 <p align="left">Curious by default.
 
-Most days you'll find me somewhere between Java, Spring Boot, PostgreSQL, Kubernetes, and an unhealthy number of terminal and browser tabs.
+Currently spending most of my time with Spring Boot, PostgreSQL, Kubernetes, Helm, and an unhealthy number of terminal tabs.
 
 Trying to leave every codebase a little cleaner than I found it.</p>
 
