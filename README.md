@@ -2,13 +2,11 @@
 
 ###
 
-<p align="left">Nice to meet you! I’m currently a final year student pursuing a BTech in Information Technology. As a Full Stack Developer and AI enthusiast, I love turning complex problems into clean, efficient solutions. Whether it's building scalable web applications or experimenting with machine learning models, I enjoy exploring the endless possibilities that tech has to offer.
+<p align="left">Curious by default.
 
-I consider myself a tech nomad always curious, always learning. I thrive on building systems that feel intuitive and perform seamlessly. Beyond code, I believe in collaboration, continuous improvement, and contributing to projects that make an impact.
+Most days you'll find me somewhere between Java, Spring Boot, PostgreSQL, Kubernetes, and an unhealthy number of terminal and browser tabs.
 
-Currently exploring opportunities to work on realworld problems, learn from inspiring minds, and grow as a developer.
-
-Let’s connect! always open to exciting conversations, collaborations, and new challenges.</p>
+Trying to leave every codebase a little cleaner than I found it.</p>
 
 ###
 
